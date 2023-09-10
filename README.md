@@ -1,6 +1,6 @@
 ### Hi, this is YIN from DevStudio1878 👋
 
-![IMG_2442](https://github.com/YinDevStudio1878/YinDevStudio1878/assets/144295622/cb811926-2be2-465c-8631-5ffb25907108)
+![IMG_2442 copy](https://github.com/YinDevStudio1878/YinDevStudio1878/assets/144295622/89a52977-c4e9-405e-bdda-3f59c9be20d3)
 
 
 🌱 About Me
