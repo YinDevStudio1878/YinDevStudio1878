@@ -1,11 +1,11 @@
-### Hi, There! This is Yin from DevStudio1878 👋
+### Hi, There! This is 'biliblippi' from DevStudio1878 👋
 
 ![IMG_2442 copy](https://github.com/YinDevStudio1878/YinDevStudio1878/assets/144295622/89a52977-c4e9-405e-bdda-3f59c9be20d3)
 
 
 ### 🌱 About Me
 
-Hello! My name is Yin. I'm presently located in the beautiful city of London, Ontario, Canada. I have embarked on an academic journey at the University of Western Ontario, where I am pursuing my second bachelor's degree, first degree in Computer Science. At the age of 36, this represents not just a change in my career trajectory, but a profound personal transformation. I am filled with anticipation and excitement about the limitless opportunities the tech industry has to offer. My decision to transition into this field has been a deliberated one, fueled by my keen interest in technological innovation and problem-solving. I am particularly interested in artificial intelligence, data analytics, and cybersecurity.
+Hello! This is 'biliblippi'. I'm presently located in the beautiful city of London, Ontario, Canada. I have embarked on an academic journey at the University of Western Ontario, where I am pursuing my second bachelor's degree, first degree in Computer Science. At the age of 36, this represents not just a change in my career trajectory, but a profound personal transformation. I am filled with anticipation and excitement about the limitless opportunities the tech industry has to offer. My decision to transition into this field has been a deliberated one, fueled by my keen interest in technological innovation and problem-solving. I am particularly interested in artificial intelligence, data analytics, and cybersecurity.
 
 
 ### 👔 Professional Background
