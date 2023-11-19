@@ -41,7 +41,7 @@ Outside the confines of work and academia, I indulge in the adrenaline-pumping g
   
   Email: devstudio1878@outlook.com
   
-  Youtube: https://www.youtube.com/@Rick2School
+  Youtube: 
   
   Webpage: [to be updated]
   
