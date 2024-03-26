@@ -1,6 +1,5 @@
 ### Hi, There! This is 'biliblippi' from DevStudio1878 👋
 
-![IMG_2442 copy](https://github.com/YinDevStudio1878/YinDevStudio1878/assets/144295622/89a52977-c4e9-405e-bdda-3f59c9be20d3)
 
 
 ### 🌱 About Me
