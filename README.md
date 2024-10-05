@@ -1,66 +1,42 @@
-### Hi, There! This is 'biliblippi' from DevStudio1878 👋
+Hi, There! This is 'biliblippi' from DevStudio1878 👋
+🌱 About Me
 
+Hello! I'm 'biliblippi', currently residing in the vibrant city of Mississauga, Ontario, Canada, where I am pursuing my Honours Specialization in Computer Science at Western University. I bring with me a wealth of professional experience from my decade-long career in the banking sector, where I held various leadership roles, including branch management and corporate governance. At 35+, my journey represents a significant shift in my career trajectory, driven by a passion for technological innovation and problem-solving. I am currently on track to graduate in 2026, with a GPA of 3.9.
 
+My academic focus is on scalable software development, network engineering, and cybersecurity, all areas where I am actively building expertise. Additionally, I am pursuing industry certifications, including CCNA, CISSP, AWS Certified Cloud Practitioner, and CompTIA A+, to further enhance my skills. I am proficient in a variety of programming languages and technologies, ranging from systems programming on UNIX/Linux to iOS and full-stack web development.
 
-### 🌱 About Me
+👔 Professional Background
 
-Hello! This is 'biliblippi'. I'm presently located in the beautiful city of London, Ontario, Canada. I have embarked on an academic journey at the University of Western Ontario, where I am pursuing my second bachelor's degree, first degree in Computer Science. At the age of 36, this represents not just a change in my career trajectory, but a profound personal transformation. I am filled with anticipation and excitement about the limitless opportunities the tech industry has to offer. My decision to transition into this field has been a deliberated one, fueled by my keen interest in technological innovation and problem-solving. I am particularly interested in artificial intelligence, data analytics, and cybersecurity.
+During my tenure in banking, I gained expertise in financial analysis, risk management, and team leadership while navigating complex regulatory environments. Most recently, I held key management roles at the Industrial and Commercial Bank of China (Canada). My transition to the tech industry has allowed me to apply the organizational skills and strategic mindset I honed in banking to software engineering and cybersecurity projects. Now, as an independent iOS and full-stack web developer, I manage my own studio, leveraging my knowledge of AI tools such as ChatGPT and GitHub to optimize productivity and streamline workflows.
 
+📚 Academic Interests
 
-### 👔 Professional Background
+Beyond Computer Science, I maintain a strong interest in Chinese history, language, and culture. This multidisciplinary approach fuels my intellectual curiosity and enhances my analytical skills, which I apply both in academic settings and real-world problem-solving scenarios. I believe that integrating these diverse perspectives contributes to more innovative and thoughtful solutions.
 
-I bring along a wealth of experience from my 15-year tenure in the banking sector. I've had the privilege of working at two of the world's largest banking groups. These roles have equipped me with invaluable skills in financial analysis, risk assessment, customer service, and team management. My time in banking has also imbued me with a solid ethical framework and an acute understanding of the regulatory landscapes in multiple jurisdictions.
+🏀 Hobbies & Interests
 
+When I’m not coding or studying, I’m on the basketball court. A lifelong basketball enthusiast, I’ve been an admirer of Kobe Bryant, whose legendary work ethic and commitment to improvement inspire me both on and off the court. I often use basketball as a way to push myself beyond my limits and reflect on the principles of teamwork, discipline, and perseverance.
 
-### 📚 Academic Interests
+🛠️ Technologies & Tools
 
-Beyond the world of zeros and ones, I possess an array of academic interests that span multiple disciplines. A lifelong passion for coding is just the tip of the iceberg. I have an insatiable curiosity for Chinese history, language, and politics. I find it thrilling to engage in intellectual dialogues that revolve around these subjects. The analytical skills acquired through my multidisciplinary academic pursuits significantly contribute to my problem-solving capabilities in tech and other fields. These are not mere interests but dimensions that shape my worldview, work ethics, and aspirations.
+    Programming Languages: Java, Python, C, MATLAB, Swift, Ruby
+    Systems Programming: UNIX/Linux, ARM Assembly, Raspberry Pi, Arduino
+    Full-Stack Web Development: HTML, CSS, JavaScript, PHP, MySQL
+    Data Analysis: Python (Pandas), R, SQL, MATLAB
+    Version Control: Git, GitLab
+    Networking & Security: TCP/IP, UDP, Network Security, Cisco Packet Tracer
+    AI Tools: ChatGPT, GitHub, Cursor
+    Agile & Software Engineering Methodologies: Agile, Incremental Model, Spiral Model, Rational Unified Process
+    Embedded Systems & System Optimization
 
+🌐 Current Projects
 
-### 🏀 Hobbies & Interests
+    Developing iOS and full-stack web applications through my own studio.
+    Preparing for industry certifications (CCNA, CISSP, AWS Cloud Practitioner).
+    Exploring advanced AI tools to further enhance software development productivity.
 
-Outside the confines of work and academia, I indulge in the adrenaline-pumping game of basketball. I've always been a basketball aficionado, closely following the NBA. My admiration for the legendary Kobe Bryant is unbounded. His work ethic, dedication, and spirit of relentless improvement resonate deeply with me. I often find myself practicing on the court, attempting to emulate some of Kobe's iconic moves, and learning valuable life lessons through the lens of sport.
+📣 Let's Connect
 
-
-### 🛠️ Technologies & Tools
-
-[to be updated]
-
-
-### 🌐 Current Projects
-
-[to be updated]
-
-
-### 📣 Let's Connect
-
-  LinkedIn: https://www.linkedin.com/in/ywang6766/
-  
-  Twitter: https://twitter.com/devstudio1878
-  
-  Email: devstudio1878@outlook.com
-  
-  Youtube: 
-  
-  Webpage: [to be updated]
-  
-
-
-### ⚖️ License
-
-[to be updated]
-
-<!--
-**YinDevStudio1878/YinDevStudio1878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    LinkedIn: https://www.linkedin.com/in/ywan5659/
+    Email: yin@apexbyte.ca
+    Webpage: https://apexbyte.ca
