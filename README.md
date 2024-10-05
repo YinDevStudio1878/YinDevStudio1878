@@ -1,4 +1,4 @@
-Hi, There! This is 'biliblippi' from DevStudio1878 👋
+
 🌱 About Me
 
 Hello! I'm 'biliblippi', currently residing in the vibrant city of Mississauga, Ontario, Canada, where I am pursuing my Honours Specialization in Computer Science at Western University. I bring with me a wealth of professional experience from my decade-long career in the banking sector, where I held various leadership roles, including branch management and corporate governance. At 35+, my journey represents a significant shift in my career trajectory, driven by a passion for technological innovation and problem-solving. I am currently on track to graduate in 2026, with a GPA of 3.9.
